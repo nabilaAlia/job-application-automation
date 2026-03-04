@@ -1,0 +1,97 @@
+{
+  "name": "Nabila Alia Binti Hazman",
+  "location": "Kuala Lumpur, Malaysia",
+  "email": "nabilaaliahazman@gmail.com",
+  "phone": "019-3566512",
+  "linkedin": "LinkedIn",
+  "education": [
+    {
+      "school": "Universiti Malaysia Sabah",
+      "location": "Kota Kinabalu, Sabah",
+      "degree": "BS Computer Science (Hons), Network Engineering",
+      "graduation": "Nov 2025",
+      "highlights": [
+        {
+          "text": "Final Year Project: Simulated phishing campaigns using Gophish to analyze security awareness and risk.",
+          "tags": ["cybersecurity", "phishing", "gophish", "security-awareness", "risk"]
+        },
+        {
+          "text": "Academic Project: Optimized campus Wi-Fi performance through router configuration and network redesign.",
+          "tags": ["networking", "wifi", "routing", "configuration", "performance"]
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Raffcomm Technologies Sdn Bhd",
+      "location": "Kuala Lumpur",
+      "role": "IT Intern - Cybersecurity & IT Operations",
+      "start": "Mar 2025",
+      "end": "Aug 2025",
+      "bullets": [
+        {
+          "text": "Facilitated digital migration from Google Workspace to Microsoft 365 for a dedicated user group, verifying access and resolving post-migration issues.",
+          "tags": ["m365", "migration", "it-operations", "support"]
+        },
+        {
+          "text": "Authored comprehensive user guides to streamline the transition to new productivity tools and minimize support requests.",
+          "tags": ["documentation", "user-guides", "communication"]
+        },
+        {
+          "text": "Managed the incident lifecycle within a ticket-based workflow, triaging user-reported problems and escalating critical risks to engineers.",
+          "tags": ["incident", "ticketing", "triage", "support"]
+        },
+        {
+          "text": "Prepared technical audit evidence for ISO/IEC 27001:2022 and WebTrust CA reviews to support organizational compliance goals.",
+          "tags": ["compliance", "iso27001", "audit", "webtrust", "pki"]
+        },
+        {
+          "text": "Executed security configuration checks using SCAP scans and CIS Benchmarks to identify potential system vulnerabilities.",
+          "tags": ["hardening", "scap", "cis", "vulnerability", "linux"]
+        },
+        {
+          "text": "Monitored enterprise security alerts using Wazuh SIEM, reviewing system logs to ensure operational integrity.",
+          "tags": ["siem", "wazuh", "monitoring", "logs", "security"]
+        },
+        {
+          "text": "Coordinated with cross-functional teams and auditors to clarify technical findings and fulfill operational requirements.",
+          "tags": ["stakeholders", "audit", "communication"]
+        }
+      ]
+    },
+    {
+      "company": "NetGroup",
+      "location": "Kota Kinabalu",
+      "role": "Team Member",
+      "start": "Jun 2024",
+      "end": "Jul 2024",
+      "bullets": [
+        {
+          "text": "Monitored network infrastructure including routers, switches, and firewalls using Wireshark and SNMP tools.",
+          "tags": ["networking", "wireshark", "snmp", "monitoring"]
+        },
+        {
+          "text": "Diagnosed network performance issues by analyzing traffic patterns and logs to ensure stable connectivity.",
+          "tags": ["troubleshooting", "networking", "logs", "performance"]
+        },
+        {
+          "text": "Documented network availability trends and prepared clear technical reports for internal management reviews.",
+          "tags": ["documentation", "reporting", "communication"]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "security": ["Wazuh SIEM", "SCAP Scans", "CIS Benchmarks", "ISO/IEC 27001:2022", "WebTrust CA Audits"],
+    "it_ops": ["Incident Triage", "Level 1 Troubleshooting", "Digital Platform Migrations (Google to M365)", "Technical Documentation", "User Guide Development"],
+    "networking": ["CCNA (Enterprise Networking, Security, and Automation)", "VLANs", "TCP/IP", "Routing & Switching", "Wireshark", "SNMP"],
+    "systems": ["Linux Command Line", "Proxmox"]
+  },
+  "certifications": [
+    "CCNA: Enterprise Networking, Security, and Automation – Cisco",
+    "CCNAv7: Switching, Routing, and Wireless Essentials – Cisco",
+    "Junior Cybersecurity Analyst Career Path – Cisco",
+    "Google IT Automation with Python – In Progress"
+  ]
+}
